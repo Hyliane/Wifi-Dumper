@@ -22,10 +22,15 @@ Seçenek 8: WLAN profillerini XML dosyalarına kaydeder.
 Seçenek 9: Zarif bir şekilde çıkın.
 
 Genel Notlar
+ 
  [+] Araçtaki her seçenek, çıktı olarak ".txt" dosyasını oluşturur.
+ 
  [+] Aracı birden çok kez çalıştırırsanız, çıktı önceki sonuçlara eklenir.
 
 Uygulama nasıl çalıştırılır?
+ 
  [+] cmd.exe'yi yönetici olarak çalıştırın.
+ 
  [+] Dizini Değiştir
-[+] Uygulamayı C:\>python wifi_dumper.py olarak çalıştırın
+
+ [+] Uygulamayı C:\>python wifi_dumper.py olarak çalıştırın
